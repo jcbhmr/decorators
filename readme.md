@@ -18,3 +18,12 @@ const state = decorate(
     // ...
 })
 ```
+
+---
+
+## Todo
+
+- [ ] Make these todos into issues
+- [ ] Add `mutable()` (depends on `new MutableRef()`)
+- [ ] Add `typeCheck()`
+- [ ] Add `matchesSchema()` using JS-object [JSON Schema](https://json-schema.org/)
