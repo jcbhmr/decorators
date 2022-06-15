@@ -27,3 +27,5 @@ const state = decorate(
 - [ ] Add `mutable()` (depends on `new MutableRef()`)
 - [ ] Add `typeCheck()`
 - [ ] Add `matchesSchema()` using JS-object [JSON Schema](https://json-schema.org/)
+- [ ] Make this into an NPM package
+- [ ] Publish this package to NPM
