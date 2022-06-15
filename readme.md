@@ -1,5 +1,5 @@
 # Decorators Collection
-Collections of decorator functions for everyday use
+Collection of decorator functions for everyday use
 
 ```js
 import decorate from "npm:@jcbhmr/decorators/decorate"
